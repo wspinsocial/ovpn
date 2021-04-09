@@ -15,3 +15,6 @@ Aussi inclut est un script openvpn-install.sh permettant l'installation & la con
 
 References | Références
 https://github.com/Nyr/openvpn-install 
+
+
+EDIT: FAIT DANS LE CONTEXTE DE MON COURS DE LINUX @ https://www.cgodin.qc.ca/?fbclid=IwAR09q1Sy52_ldIIKow7v2Fsiviv8-465EJMn_SikNbT8kWG2xL11l3JHYzE
